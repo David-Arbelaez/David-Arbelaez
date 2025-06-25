@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **about python automation methodologies**
 
-- 👨‍💻 All of my projects are available at [https://david-arbelaez.github.io/Web-Page/](https://david-arbelaez.github.io/Web-Page/)
-
 - ⚡ Fun fact **I really love ice coffe**
 
 <br/>

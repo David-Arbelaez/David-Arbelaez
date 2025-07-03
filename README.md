@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 <h3>My name is David, an Electronic Engineer student from Colombia</h3>
 
-- 🌱 I’m currently learning **about python automation methodologies**
+- 🌱 I’m currently learning about **Data Analysis**
 
 - ⚡ Fun fact **I really love ice coffe**
 

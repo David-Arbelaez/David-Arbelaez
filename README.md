@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
-<h3>My name is David, an Electronic Engineer student from Colombia</h3>
+<h3>My name is Julián, an Electronic Engineer student from Colombia</h3>
 
-- 🌱 I’m currently learning about **Data Analysis**
+- 🌱 I’m currently working in **Data Analysis**
 
 - ⚡ Fun fact **I really love ice coffe**
 
@@ -28,5 +28,5 @@
 <br/>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-arbelaez&show_icons=true&locale=en&theme=gruvbox" alt="david-arbelaez" /></p>
+//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-arbelaez&show_icons=true&locale=en&theme=gruvbox" alt="david-arbelaez" /></p>
 

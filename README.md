@@ -28,5 +28,5 @@
 <br/>
 <br/>
 
-//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-arbelaez&show_icons=true&locale=en&theme=gruvbox" alt="david-arbelaez" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-arbelaez&show_icons=true&locale=en&theme=gruvbox" alt="david-arbelaez" /></p>
 
